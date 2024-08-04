@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [ "LJM12914" ]
+    },
+    "header": {
+        "name": "阻止末影人破坏地形",
+        "description": "基岩之上服务器模组。取消末影人拿取方块的能力，保持地形美观。",
+        "min_engine_version": [ 1, 21, 1 ],
+        "uuid": "d91a5751-4ee7-44da-b62b-f0d8793db28c",
+        "version": [ 1, 0, 0 ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "73a9b5fd-23df-43ad-aa7f-bc47ad67b61f",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}
