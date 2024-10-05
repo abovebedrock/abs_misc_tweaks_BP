@@ -6,9 +6,9 @@
 	"header": {
 		"name": "阻止末影人破坏地形",
 		"description": "基岩之上服务器模组。取消末影人拿取方块的能力，保持地形美观。",
-		"min_engine_version": [ 1, 21, 20 ],
+		"min_engine_version": [ 1, 21, 30 ],
 		"uuid": "d91a5751-4ee7-44da-b62b-f0d8793db28c",
-		"version": [ 1, 1, 0 ]
+		"version": [ 1, 2, 0 ]
 	},
 	"modules": [
 		{
