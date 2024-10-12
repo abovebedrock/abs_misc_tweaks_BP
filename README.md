@@ -1,4 +1,4 @@
-# abs_misc_tweaks
+# abs_misc_tweaks_BP
 
 基岩之上服务器模组。对游戏进行多个微调，提高生活质量。
 
