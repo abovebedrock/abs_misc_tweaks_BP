@@ -159,9 +159,9 @@
       "minecraft:behavior.hurt_by_target": {
         "priority": 3
       },
-      //"minecraft:behavior.enderman_leave_block": {
-      //  "priority": 10
-      //},
+      "minecraft:behavior.enderman_leave_block": {
+        "priority": 10
+      },
       //"minecraft:behavior.enderman_take_block": {
       //  "priority": 11
       //},
