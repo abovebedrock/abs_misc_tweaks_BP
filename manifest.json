@@ -6,9 +6,9 @@
     "header": {
         "name": "杂项调整",
         "description": "基岩之上服务器模组。对游戏进行多个微调，提高生活质量。",
-        "min_engine_version": [ 1, 21, 30 ],
+        "min_engine_version": [ 1, 21, 42 ],
         "uuid": "d91a5751-4ee7-44da-b62b-f0d8793db28c",
-        "version": [ 1, 3, 0 ]
+        "version": [ 1, 3, 1 ]
     },
     "modules": [
         {
